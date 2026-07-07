@@ -1,6 +1,6 @@
 {
   "repo": "AI-ML-Jobs",
-  "owner": "ponder-surveys",
+  "owner": "dreamworkhq",
   "title": "AI and Machine Learning Jobs",
   "tagline": "AI-first and AI-focused roles: ML engineers, applied scientists, LLM engineers, AI product managers. A classifier reads every posting, so roles that merely mention AI stay out.",
   "description": "AI and ML jobs updated daily. AI-first and AI-focused roles (ML, LLM, applied science, AI product) classified from 400,000+ crawled listings, with salaries.",
@@ -23,9 +23,9 @@
   "groupBy": "functionPrimary",
   "showAiColumn": true,
   "siblings": [
-    { "repo": "ponder-surveys/New-Grad-Software-Engineer-Jobs", "label": "New Grad Software Engineer Jobs: entry-level roles for graduates" },
-    { "repo": "ponder-surveys/Tech-Internships-2026", "label": "Tech Internships 2026: SWE, data, product, and design internships" },
-    { "repo": "ponder-surveys/Remote-Tech-Jobs", "label": "Remote Tech Jobs: fully remote engineering roles" }
+    { "repo": "dreamworkhq/New-Grad-Software-Engineer-Jobs", "label": "New Grad Software Engineer Jobs: entry-level roles for graduates" },
+    { "repo": "dreamworkhq/Tech-Internships-2026", "label": "Tech Internships 2026: SWE, data, product, and design internships" },
+    { "repo": "dreamworkhq/Remote-Tech-Jobs", "label": "Remote Tech Jobs: fully remote engineering roles" }
   ],
   "faq": [
     {

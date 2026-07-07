@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T11:21:21.446Z",
+  "generatedAt": "2026-07-07T14:51:55.432Z",
   "source": "https://www.dreamworkhq.com",
   "list": "AI-ML-Jobs",
   "count": 300,
@@ -1979,20 +1979,6 @@
       "url": "https://www.dreamworkhq.com/job/09893e63-4ad6-4d2f-87f6-c0be1cdd94fe?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "5372c669-366e-4637-92f7-b1029a0c77dc",
-      "title": "Principal Product Data Scientist",
-      "company": "TripAdvisor",
-      "companyDomain": "tripadvisor.com",
-      "location": "Poland",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T14:03:57.000Z",
-      "firstIndexedAt": "2026-07-07T06:13:30.332Z",
-      "url": "https://www.dreamworkhq.com/job/5372c669-366e-4637-92f7-b1029a0c77dc?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "abc336f5-83ff-4b35-b91c-400d2ab48f9c",
       "title": "Senior Product Data Scientist",
       "company": "TripAdvisor",
@@ -2005,6 +1991,20 @@
       "postedAt": "2026-07-06T14:18:49.000Z",
       "firstIndexedAt": "2026-07-07T06:13:30.332Z",
       "url": "https://www.dreamworkhq.com/job/abc336f5-83ff-4b35-b91c-400d2ab48f9c?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "5372c669-366e-4637-92f7-b1029a0c77dc",
+      "title": "Principal Product Data Scientist",
+      "company": "TripAdvisor",
+      "companyDomain": "tripadvisor.com",
+      "location": "Poland",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T14:03:57.000Z",
+      "firstIndexedAt": "2026-07-07T06:13:30.332Z",
+      "url": "https://www.dreamworkhq.com/job/5372c669-366e-4637-92f7-b1029a0c77dc?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "50b52c0c-6273-4af2-8c6b-95ea31c8e9ec",
@@ -2077,20 +2077,6 @@
       "url": "https://www.dreamworkhq.com/job/6c000241-9962-4a4b-99f2-553cdf536ae3?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "d58c3255-2ada-40f5-a65a-8e83af8738ce",
-      "title": "Senior/Staff Engineer, Operations Automation & Cloud Management Platform",
-      "company": "OKX",
-      "companyDomain": "okx.com",
-      "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T10:10:57.000Z",
-      "firstIndexedAt": "2026-07-07T06:13:26.819Z",
-      "url": "https://www.dreamworkhq.com/job/d58c3255-2ada-40f5-a65a-8e83af8738ce?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "b30c0162-4cce-4386-98ae-4df88bdd5b3e",
       "title": "Senior/Staff Engineer, Security Platform Development",
       "company": "OKX",
@@ -2103,6 +2089,20 @@
       "postedAt": "2026-07-06T08:39:32.000Z",
       "firstIndexedAt": "2026-07-07T06:13:26.819Z",
       "url": "https://www.dreamworkhq.com/job/b30c0162-4cce-4386-98ae-4df88bdd5b3e?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "d58c3255-2ada-40f5-a65a-8e83af8738ce",
+      "title": "Senior/Staff Engineer, Operations Automation & Cloud Management Platform",
+      "company": "OKX",
+      "companyDomain": "okx.com",
+      "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T10:10:57.000Z",
+      "firstIndexedAt": "2026-07-07T06:13:26.819Z",
+      "url": "https://www.dreamworkhq.com/job/d58c3255-2ada-40f5-a65a-8e83af8738ce?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "4e05e71c-501d-42dc-b1a2-a68d1572b7fd",
@@ -2133,18 +2133,18 @@
       "url": "https://www.dreamworkhq.com/job/97c2dc30-4cb4-4dd6-b151-01effc6c194d?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "b37fdd74-11ca-4d21-bfc8-da0cf001f2fd",
-      "title": "Data Engineer",
-      "company": "Zensar",
-      "companyDomain": "zensar.com",
-      "location": "Pune, Maharashtra, India",
+      "id": "09602739-7c88-4b54-be98-0112f61f21aa",
+      "title": "Electrical Engineer (US)",
+      "company": "Sereact",
+      "companyDomain": "sereact.com",
+      "location": "Boston, Massachusetts",
       "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
+      "salaryMin": 115000,
+      "salaryMax": 150000,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T08:36:08.000Z",
-      "firstIndexedAt": "2026-07-07T06:13:23.767Z",
-      "url": "https://www.dreamworkhq.com/job/b37fdd74-11ca-4d21-bfc8-da0cf001f2fd?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+      "postedAt": "2026-07-06T20:40:12.824Z",
+      "firstIndexedAt": "2026-07-07T06:13:25.231Z",
+      "url": "https://www.dreamworkhq.com/job/09602739-7c88-4b54-be98-0112f61f21aa?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "e86d5e4b-7694-4d8c-8ff6-40f8e066a324",
@@ -2159,6 +2159,20 @@
       "postedAt": "2026-07-06T08:28:16.000Z",
       "firstIndexedAt": "2026-07-07T06:13:23.767Z",
       "url": "https://www.dreamworkhq.com/job/e86d5e4b-7694-4d8c-8ff6-40f8e066a324?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "b37fdd74-11ca-4d21-bfc8-da0cf001f2fd",
+      "title": "Data Engineer",
+      "company": "Zensar",
+      "companyDomain": "zensar.com",
+      "location": "Pune, Maharashtra, India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T08:36:08.000Z",
+      "firstIndexedAt": "2026-07-07T06:13:23.767Z",
+      "url": "https://www.dreamworkhq.com/job/b37fdd74-11ca-4d21-bfc8-da0cf001f2fd?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "93598d06-cef6-4918-85f1-3d499831794c",
@@ -2231,20 +2245,6 @@
       "url": "https://www.dreamworkhq.com/job/0a9ccbee-0f3f-4173-8234-824cf05f2fc5?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "f1585c9e-847a-4f95-bcec-48c676de93ab",
-      "title": "Senior Director, Engineering | Retail Analytics / CPG / Market Intelligence ",
-      "company": "NielsenIQ",
-      "companyDomain": "nielseniq.com",
-      "location": "Chicago, IL, United States",
-      "remoteType": "remote",
-      "salaryMin": 151800,
-      "salaryMax": 200000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T12:54:17.430Z",
-      "firstIndexedAt": "2026-07-07T06:13:21.940Z",
-      "url": "https://www.dreamworkhq.com/job/f1585c9e-847a-4f95-bcec-48c676de93ab?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "d3c84e09-556a-4991-9934-0fe37e1ba01e",
       "title": "Qualitative Consulting Associate Director SEA MT",
       "company": "NielsenIQ",
@@ -2257,6 +2257,20 @@
       "postedAt": "2026-07-06T11:55:26.227Z",
       "firstIndexedAt": "2026-07-07T06:13:21.940Z",
       "url": "https://www.dreamworkhq.com/job/d3c84e09-556a-4991-9934-0fe37e1ba01e?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "f1585c9e-847a-4f95-bcec-48c676de93ab",
+      "title": "Senior Director, Engineering | Retail Analytics / CPG / Market Intelligence ",
+      "company": "NielsenIQ",
+      "companyDomain": "nielseniq.com",
+      "location": "Chicago, IL, United States",
+      "remoteType": "remote",
+      "salaryMin": 151800,
+      "salaryMax": 200000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T12:54:17.430Z",
+      "firstIndexedAt": "2026-07-07T06:13:21.940Z",
+      "url": "https://www.dreamworkhq.com/job/f1585c9e-847a-4f95-bcec-48c676de93ab?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "aac94d6a-c7b7-413b-9724-ab54ba591b59",
@@ -2497,18 +2511,18 @@
       "url": "https://www.dreamworkhq.com/job/e8a684a1-e732-421a-8d8b-ded4bd4ce40a?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "5fd5b90a-52e1-4856-867e-ba00c5cef6a0",
-      "title": "Cross-Asset Risk Premia Research – Quantitative Strategist – Vice President or Executive Director",
+      "id": "edc361d8-c668-4c0b-b1d6-ea5769449c9d",
+      "title": "Sr Principal Architect, Data Platform",
       "company": "Alumni",
       "companyDomain": "campbellglobal.com",
-      "location": "LONDON, LONDON, United Kingdom",
+      "location": "Jersey City, NJ, United States",
       "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
+      "salaryMin": 232750,
+      "salaryMax": 325000,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2025-04-08T12:10:39.000Z",
+      "postedAt": "2025-04-07T19:36:37.000Z",
       "firstIndexedAt": "2026-07-07T06:13:04.689Z",
-      "url": "https://www.dreamworkhq.com/job/5fd5b90a-52e1-4856-867e-ba00c5cef6a0?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+      "url": "https://www.dreamworkhq.com/job/edc361d8-c668-4c0b-b1d6-ea5769449c9d?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "56bda67a-67dc-44d6-8e9c-80778413f8ca",
@@ -2525,18 +2539,18 @@
       "url": "https://www.dreamworkhq.com/job/56bda67a-67dc-44d6-8e9c-80778413f8ca?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "edc361d8-c668-4c0b-b1d6-ea5769449c9d",
-      "title": "Sr Principal Architect, Data Platform",
+      "id": "5fd5b90a-52e1-4856-867e-ba00c5cef6a0",
+      "title": "Cross-Asset Risk Premia Research – Quantitative Strategist – Vice President or Executive Director",
       "company": "Alumni",
       "companyDomain": "campbellglobal.com",
-      "location": "Jersey City, NJ, United States",
+      "location": "LONDON, LONDON, United Kingdom",
       "remoteType": "onsite",
-      "salaryMin": 232750,
-      "salaryMax": 325000,
+      "salaryMin": null,
+      "salaryMax": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2025-04-07T19:36:37.000Z",
+      "postedAt": "2025-04-08T12:10:39.000Z",
       "firstIndexedAt": "2026-07-07T06:13:04.689Z",
-      "url": "https://www.dreamworkhq.com/job/edc361d8-c668-4c0b-b1d6-ea5769449c9d?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+      "url": "https://www.dreamworkhq.com/job/5fd5b90a-52e1-4856-867e-ba00c5cef6a0?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "309bb097-2877-411c-83dd-7f03872b70a1",
@@ -2609,20 +2623,6 @@
       "url": "https://www.dreamworkhq.com/job/311306c6-7122-4f92-8cc8-661b3a6be562?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "fe0cceaf-90fc-444c-a127-a43c6bd9e806",
-      "title": "Tax Innovation - Software Engineering - Senior Associate",
-      "company": "Us Experienced",
-      "companyDomain": "experiencedrecruitingpartners.com",
-      "location": "TX-Dallas",
-      "remoteType": "onsite",
-      "salaryMin": 77000,
-      "salaryMax": 214000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-07T06:12:42.645Z",
-      "firstIndexedAt": "2026-07-07T06:12:56.336Z",
-      "url": "https://www.dreamworkhq.com/job/fe0cceaf-90fc-444c-a127-a43c6bd9e806?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "62fdf7af-f872-44b9-9a3f-1ccaee4f4899",
       "title": "AI Governance Sr. Manager",
       "company": "Us Experienced",
@@ -2635,6 +2635,20 @@
       "postedAt": "2026-07-07T06:12:41.935Z",
       "firstIndexedAt": "2026-07-07T06:12:56.336Z",
       "url": "https://www.dreamworkhq.com/job/62fdf7af-f872-44b9-9a3f-1ccaee4f4899?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "fe0cceaf-90fc-444c-a127-a43c6bd9e806",
+      "title": "Tax Innovation - Software Engineering - Senior Associate",
+      "company": "Us Experienced",
+      "companyDomain": "experiencedrecruitingpartners.com",
+      "location": "TX-Dallas",
+      "remoteType": "onsite",
+      "salaryMin": 77000,
+      "salaryMax": 214000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-07T06:12:42.645Z",
+      "firstIndexedAt": "2026-07-07T06:12:56.336Z",
+      "url": "https://www.dreamworkhq.com/job/fe0cceaf-90fc-444c-a127-a43c6bd9e806?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "5a1c3ae3-ce29-421d-b040-7d633df39a3d",
@@ -2763,20 +2777,6 @@
       "url": "https://www.dreamworkhq.com/job/8bba9f66-edbe-4a18-a825-225ff0f288fb?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "3fad5e0c-52aa-4d81-89cd-2f243a996498",
-      "title": "Principal Research Scientist I, Process Chemistry (Biocatalysis)",
-      "company": "AbbVie",
-      "companyDomain": "abbvie.com",
-      "location": "North Chicago, IL, United States",
-      "remoteType": "onsite",
-      "salaryMin": 124500,
-      "salaryMax": 236500,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T17:32:28.756Z",
-      "firstIndexedAt": "2026-07-07T06:12:49.885Z",
-      "url": "https://www.dreamworkhq.com/job/3fad5e0c-52aa-4d81-89cd-2f243a996498?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "f1990654-b623-43d7-867b-b68c562b2f9c",
       "title": " Clinical Director, Clinical Data and AI Convergence",
       "company": "AbbVie",
@@ -2789,6 +2789,20 @@
       "postedAt": "2026-07-06T14:39:33.024Z",
       "firstIndexedAt": "2026-07-07T06:12:49.885Z",
       "url": "https://www.dreamworkhq.com/job/f1990654-b623-43d7-867b-b68c562b2f9c?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "3fad5e0c-52aa-4d81-89cd-2f243a996498",
+      "title": "Principal Research Scientist I, Process Chemistry (Biocatalysis)",
+      "company": "AbbVie",
+      "companyDomain": "abbvie.com",
+      "location": "North Chicago, IL, United States",
+      "remoteType": "onsite",
+      "salaryMin": 124500,
+      "salaryMax": 236500,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T17:32:28.756Z",
+      "firstIndexedAt": "2026-07-07T06:12:49.885Z",
+      "url": "https://www.dreamworkhq.com/job/3fad5e0c-52aa-4d81-89cd-2f243a996498?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "7ccf5b6b-a2ba-47c1-933f-8270f7d779bf",
@@ -3169,7 +3183,7 @@
       "url": "https://www.dreamworkhq.com/job/78cb35f0-829b-40fd-a338-2907afefb04f?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "9d4adb1d-4773-4f13-8932-6b0a5616c152",
+      "id": "828ea084-c0b7-4fe8-9539-99e3f8f8ecfb",
       "title": "Commercial Account Executive",
       "company": "NICE",
       "companyDomain": "nice.com",
@@ -3178,9 +3192,9 @@
       "salaryMin": 75000,
       "salaryMax": 115000,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T17:47:04.000Z",
+      "postedAt": "2026-07-06T20:39:14.000Z",
       "firstIndexedAt": "2026-07-07T06:12:10.378Z",
-      "url": "https://www.dreamworkhq.com/job/9d4adb1d-4773-4f13-8932-6b0a5616c152?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+      "url": "https://www.dreamworkhq.com/job/828ea084-c0b7-4fe8-9539-99e3f8f8ecfb?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "d64b406e-650e-49e7-9ede-52a906793001",
@@ -3309,20 +3323,6 @@
       "url": "https://www.dreamworkhq.com/job/a4c40ec6-4f85-4c40-81cb-a8bb70c92ac0?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "507e766c-d9cd-4833-9315-fdef33158bf8",
-      "title": "SEO Technical Lead - Madrid based",
-      "company": "Feverup",
-      "companyDomain": "feverup.com",
-      "location": "Milan",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T08:41:44.000Z",
-      "firstIndexedAt": "2026-07-07T06:11:59.120Z",
-      "url": "https://www.dreamworkhq.com/job/507e766c-d9cd-4833-9315-fdef33158bf8?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "37029350-c85d-4579-bb62-615728774315",
       "title": "SEO Technical Lead - Madrid based",
       "company": "Feverup",
@@ -3351,6 +3351,20 @@
       "url": "https://www.dreamworkhq.com/job/b35ec46e-e4ac-4726-9281-85b0e09266e3?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
+      "id": "507e766c-d9cd-4833-9315-fdef33158bf8",
+      "title": "SEO Technical Lead - Madrid based",
+      "company": "Feverup",
+      "companyDomain": "feverup.com",
+      "location": "Milan",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T08:41:44.000Z",
+      "firstIndexedAt": "2026-07-07T06:11:59.120Z",
+      "url": "https://www.dreamworkhq.com/job/507e766c-d9cd-4833-9315-fdef33158bf8?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
       "id": "0646df16-2885-46d4-b32b-e264e6ae421e",
       "title": "AI Search Innovation Lead - Madrid based",
       "company": "Feverup",
@@ -3363,34 +3377,6 @@
       "postedAt": "2026-07-06T08:42:59.000Z",
       "firstIndexedAt": "2026-07-07T06:11:58.536Z",
       "url": "https://www.dreamworkhq.com/job/0646df16-2885-46d4-b32b-e264e6ae421e?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
-      "id": "8ea6bc34-7de8-483e-a98d-e5758ec08c95",
-      "title": "AI Search Innovation Lead",
-      "company": "Feverup",
-      "companyDomain": "feverup.com",
-      "location": "Madrid",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T08:37:39.000Z",
-      "firstIndexedAt": "2026-07-07T06:11:58.536Z",
-      "url": "https://www.dreamworkhq.com/job/8ea6bc34-7de8-483e-a98d-e5758ec08c95?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
-      "id": "643e6340-cd80-4d82-a1bc-46a4b6620479",
-      "title": "AI Search Innovation Lead - Madrid based",
-      "company": "Feverup",
-      "companyDomain": "feverup.com",
-      "location": "Rome",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T08:39:55.000Z",
-      "firstIndexedAt": "2026-07-07T06:11:58.536Z",
-      "url": "https://www.dreamworkhq.com/job/643e6340-cd80-4d82-a1bc-46a4b6620479?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "ad1ae3cc-ce83-4ad0-8bd6-c855f627cb73",
@@ -3407,6 +3393,20 @@
       "url": "https://www.dreamworkhq.com/job/ad1ae3cc-ce83-4ad0-8bd6-c855f627cb73?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
+      "id": "643e6340-cd80-4d82-a1bc-46a4b6620479",
+      "title": "AI Search Innovation Lead - Madrid based",
+      "company": "Feverup",
+      "companyDomain": "feverup.com",
+      "location": "Rome",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T08:39:55.000Z",
+      "firstIndexedAt": "2026-07-07T06:11:58.536Z",
+      "url": "https://www.dreamworkhq.com/job/643e6340-cd80-4d82-a1bc-46a4b6620479?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
       "id": "9926ec61-6bb0-46d8-9474-1a5d502cc382",
       "title": "AI Search Innovation Lead - Madrid based",
       "company": "Feverup",
@@ -3419,6 +3419,20 @@
       "postedAt": "2026-07-06T08:39:33.000Z",
       "firstIndexedAt": "2026-07-07T06:11:58.536Z",
       "url": "https://www.dreamworkhq.com/job/9926ec61-6bb0-46d8-9474-1a5d502cc382?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "8ea6bc34-7de8-483e-a98d-e5758ec08c95",
+      "title": "AI Search Innovation Lead",
+      "company": "Feverup",
+      "companyDomain": "feverup.com",
+      "location": "Madrid",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T08:37:39.000Z",
+      "firstIndexedAt": "2026-07-07T06:11:58.536Z",
+      "url": "https://www.dreamworkhq.com/job/8ea6bc34-7de8-483e-a98d-e5758ec08c95?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "ea144619-d1d6-423a-90c3-63096ec03295",
@@ -3519,20 +3533,6 @@
       "url": "https://www.dreamworkhq.com/job/2aab41e7-ddfd-4b4d-bcdf-bcba84a06454?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "967fbf8e-ff1e-471d-b242-3d451e803a47",
-      "title": "Director - Global Head of Banking One Platform",
-      "company": "Barclays",
-      "companyDomain": "barclays.co.uk",
-      "location": "Gurugram, DLF Downtown",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-07T06:11:12.948Z",
-      "firstIndexedAt": "2026-07-07T06:11:47.895Z",
-      "url": "https://www.dreamworkhq.com/job/967fbf8e-ff1e-471d-b242-3d451e803a47?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "d25d0942-3013-4ac6-baa8-3fc1706bd026",
       "title": "Gen AI - SDET",
       "company": "Barclays",
@@ -3545,6 +3545,20 @@
       "postedAt": "2026-07-07T06:11:10.765Z",
       "firstIndexedAt": "2026-07-07T06:11:47.895Z",
       "url": "https://www.dreamworkhq.com/job/d25d0942-3013-4ac6-baa8-3fc1706bd026?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "967fbf8e-ff1e-471d-b242-3d451e803a47",
+      "title": "Director - Global Head of Banking One Platform",
+      "company": "Barclays",
+      "companyDomain": "barclays.co.uk",
+      "location": "Gurugram, DLF Downtown",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-07T06:11:12.948Z",
+      "firstIndexedAt": "2026-07-07T06:11:47.895Z",
+      "url": "https://www.dreamworkhq.com/job/967fbf8e-ff1e-471d-b242-3d451e803a47?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "3df06460-88c9-46ce-80c1-8df27b9dde4e",
@@ -3589,20 +3603,6 @@
       "url": "https://www.dreamworkhq.com/job/e7a60adc-0b4b-4155-89b7-4b3356e6795b?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "0e78b1e5-da9d-4ab3-9996-c7739a6f20f7",
-      "title": "Senior Principal Architect",
-      "company": "Peraton",
-      "companyDomain": "peraton.com",
-      "location": "Reston, VA, US",
-      "remoteType": "hybrid",
-      "salaryMin": 176000,
-      "salaryMax": 282000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T04:00:00.000Z",
-      "firstIndexedAt": "2026-07-07T06:11:38.200Z",
-      "url": "https://www.dreamworkhq.com/job/0e78b1e5-da9d-4ab3-9996-c7739a6f20f7?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "5e492f77-f144-4e36-8afa-0e241c573890",
       "title": "Principal Enterprise Schedule Analytics & Operations Research Analyst",
       "company": "Peraton",
@@ -3631,8 +3631,8 @@
       "url": "https://www.dreamworkhq.com/job/1e844787-982f-4c90-b722-4db2a52fac80?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "a371dbf3-fbc2-4ced-99ed-b538fc3efd72",
-      "title": "Senior Architect",
+      "id": "0e78b1e5-da9d-4ab3-9996-c7739a6f20f7",
+      "title": "Senior Principal Architect",
       "company": "Peraton",
       "companyDomain": "peraton.com",
       "location": "Reston, VA, US",
@@ -3641,8 +3641,8 @@
       "salaryMax": 282000,
       "aiRoleKind": "ai_explicit",
       "postedAt": "2026-07-06T04:00:00.000Z",
-      "firstIndexedAt": "2026-07-07T06:11:37.868Z",
-      "url": "https://www.dreamworkhq.com/job/a371dbf3-fbc2-4ced-99ed-b538fc3efd72?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+      "firstIndexedAt": "2026-07-07T06:11:38.200Z",
+      "url": "https://www.dreamworkhq.com/job/0e78b1e5-da9d-4ab3-9996-c7739a6f20f7?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "70cd8ea2-e5ea-474c-b422-7b7e9021139b",
@@ -3659,6 +3659,20 @@
       "url": "https://www.dreamworkhq.com/job/70cd8ea2-e5ea-474c-b422-7b7e9021139b?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
+      "id": "a371dbf3-fbc2-4ced-99ed-b538fc3efd72",
+      "title": "Senior Architect",
+      "company": "Peraton",
+      "companyDomain": "peraton.com",
+      "location": "Reston, VA, US",
+      "remoteType": "hybrid",
+      "salaryMin": 176000,
+      "salaryMax": 282000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T04:00:00.000Z",
+      "firstIndexedAt": "2026-07-07T06:11:37.868Z",
+      "url": "https://www.dreamworkhq.com/job/a371dbf3-fbc2-4ced-99ed-b538fc3efd72?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
       "id": "ca3f8c1e-2780-4096-b87a-4119a09ff725",
       "title": "Senior Manager, AI Infrastructure Operations",
       "company": "Vultr",
@@ -3673,20 +3687,6 @@
       "url": "https://www.dreamworkhq.com/job/ca3f8c1e-2780-4096-b87a-4119a09ff725?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "9698572d-02ea-4cad-9742-141db61bcde1",
-      "title": "Operations Analyst",
-      "company": "General Dynamics Mission Systems",
-      "companyDomain": "gdmissionsystems.com",
-      "location": "Pittsburgh, PA, US",
-      "remoteType": "onsite",
-      "salaryMin": 111881,
-      "salaryMax": 121059,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-06T04:00:00.000Z",
-      "firstIndexedAt": "2026-07-07T06:11:28.919Z",
-      "url": "https://www.dreamworkhq.com/job/9698572d-02ea-4cad-9742-141db61bcde1?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "2fc080c8-943b-449c-b753-dbe34f8b0fff",
       "title": "Program Manager",
       "company": "General Dynamics Mission Systems",
@@ -3699,6 +3699,20 @@
       "postedAt": "2026-07-06T04:00:00.000Z",
       "firstIndexedAt": "2026-07-07T06:11:28.919Z",
       "url": "https://www.dreamworkhq.com/job/2fc080c8-943b-449c-b753-dbe34f8b0fff?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "9698572d-02ea-4cad-9742-141db61bcde1",
+      "title": "Operations Analyst",
+      "company": "General Dynamics Mission Systems",
+      "companyDomain": "gdmissionsystems.com",
+      "location": "Pittsburgh, PA, US",
+      "remoteType": "onsite",
+      "salaryMin": 111881,
+      "salaryMax": 121059,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-06T04:00:00.000Z",
+      "firstIndexedAt": "2026-07-07T06:11:28.919Z",
+      "url": "https://www.dreamworkhq.com/job/9698572d-02ea-4cad-9742-141db61bcde1?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "a4396573-7c1f-4bb2-9e81-b9621863ff59",
@@ -3785,20 +3799,6 @@
       "url": "https://www.dreamworkhq.com/job/4fd13bff-c249-4bcb-8d45-84230e4335a9?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "60784214-adad-4940-86f4-b36a80c27226",
-      "title": "Software Development Engineer II",
-      "company": "Expedia Group",
-      "companyDomain": "expediagroup.com",
-      "location": "India - Gurgaon",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-07T06:11:00.817Z",
-      "firstIndexedAt": "2026-07-07T06:11:04.113Z",
-      "url": "https://www.dreamworkhq.com/job/60784214-adad-4940-86f4-b36a80c27226?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "7035f347-0354-4e98-b9eb-97934fc25522",
       "title": "Director, Technical Program Management - Multi-Product Shopping",
       "company": "Expedia Group",
@@ -3825,6 +3825,20 @@
       "postedAt": "2026-07-07T06:11:00.615Z",
       "firstIndexedAt": "2026-07-07T06:11:04.113Z",
       "url": "https://www.dreamworkhq.com/job/8ecf9bcc-2738-4640-a64e-c7bdc360ce20?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "60784214-adad-4940-86f4-b36a80c27226",
+      "title": "Software Development Engineer II",
+      "company": "Expedia Group",
+      "companyDomain": "expediagroup.com",
+      "location": "India - Gurgaon",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-07T06:11:00.817Z",
+      "firstIndexedAt": "2026-07-07T06:11:04.113Z",
+      "url": "https://www.dreamworkhq.com/job/60784214-adad-4940-86f4-b36a80c27226?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "6ef916af-33ba-4752-a1c7-b451321849a9",
@@ -3869,20 +3883,6 @@
       "url": "https://www.dreamworkhq.com/job/6d4e10f8-3cc1-40b7-bf3b-4e2ef0308e2d?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "1a319de7-f163-4b4d-bf7c-297e8ad392f8",
-      "title": "Customer AI & Analytics Product, Principal (Senior Manager)",
-      "company": "AIA",
-      "companyDomain": "aia.com",
-      "location": "Hong Kong, HK-AIA Hong Kong & Macau",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-07T06:10:14.698Z",
-      "firstIndexedAt": "2026-07-07T06:11:00.877Z",
-      "url": "https://www.dreamworkhq.com/job/1a319de7-f163-4b4d-bf7c-297e8ad392f8?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "1132cd80-7f2a-41ba-972f-91971d144d5b",
       "title": "Associate Director, Customer AI & Analytics Product Management",
       "company": "AIA",
@@ -3895,6 +3895,20 @@
       "postedAt": "2026-07-07T06:10:15.009Z",
       "firstIndexedAt": "2026-07-07T06:11:00.877Z",
       "url": "https://www.dreamworkhq.com/job/1132cd80-7f2a-41ba-972f-91971d144d5b?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "1a319de7-f163-4b4d-bf7c-297e8ad392f8",
+      "title": "Customer AI & Analytics Product, Principal (Senior Manager)",
+      "company": "AIA",
+      "companyDomain": "aia.com",
+      "location": "Hong Kong, HK-AIA Hong Kong & Macau",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-07T06:10:14.698Z",
+      "firstIndexedAt": "2026-07-07T06:11:00.877Z",
+      "url": "https://www.dreamworkhq.com/job/1a319de7-f163-4b4d-bf7c-297e8ad392f8?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "10489a14-7aa5-425a-adef-8fdab21efb92",
@@ -3953,20 +3967,6 @@
       "url": "https://www.dreamworkhq.com/job/64095d3b-3b29-4323-9ba9-b4bef2404000?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
-      "id": "0cc67880-d784-48ff-9d20-51ce9ce4c4ce",
-      "title": "Mechanical Design Integrations Backend Engineer",
-      "company": "Foundation Llm Technologies",
-      "companyDomain": "foundationllmtechnologies.com",
-      "location": "Boston, MA",
-      "remoteType": "onsite",
-      "salaryMin": 110000,
-      "salaryMax": 175000,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-07T00:51:49.472Z",
-      "firstIndexedAt": "2026-07-07T06:10:45.198Z",
-      "url": "https://www.dreamworkhq.com/job/0cc67880-d784-48ff-9d20-51ce9ce4c4ce?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
       "id": "bf13cbed-51b3-4f41-a5b8-aca3dbc781d0",
       "title": "CAD Integrations Backend Engineer",
       "company": "Foundation Llm Technologies",
@@ -3979,6 +3979,20 @@
       "postedAt": "2026-07-07T00:50:42.576Z",
       "firstIndexedAt": "2026-07-07T06:10:45.198Z",
       "url": "https://www.dreamworkhq.com/job/bf13cbed-51b3-4f41-a5b8-aca3dbc781d0?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
+    },
+    {
+      "id": "0cc67880-d784-48ff-9d20-51ce9ce4c4ce",
+      "title": "Mechanical Design Integrations Backend Engineer",
+      "company": "Foundation Llm Technologies",
+      "companyDomain": "foundationllmtechnologies.com",
+      "location": "Boston, MA",
+      "remoteType": "onsite",
+      "salaryMin": 110000,
+      "salaryMax": 175000,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-07T00:51:49.472Z",
+      "firstIndexedAt": "2026-07-07T06:10:45.198Z",
+      "url": "https://www.dreamworkhq.com/job/0cc67880-d784-48ff-9d20-51ce9ce4c4ce?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     },
     {
       "id": "87d8c502-f6f9-4b2a-82eb-82230f3140e7",
@@ -4189,20 +4203,6 @@
       "postedAt": "2026-07-06T20:55:01.013Z",
       "firstIndexedAt": "2026-07-07T06:10:11.931Z",
       "url": "https://www.dreamworkhq.com/job/422a09dc-317a-4254-bbc2-a062fe05da9c?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
-    },
-    {
-      "id": "ba719df8-851a-472c-906c-311e01b7887f",
-      "title": "Senior Backend Software Engineer",
-      "company": "Yahoo",
-      "companyDomain": "yahoo.com",
-      "location": "Japan",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-07T06:10:06.227Z",
-      "firstIndexedAt": "2026-07-07T06:10:08.591Z",
-      "url": "https://www.dreamworkhq.com/job/ba719df8-851a-472c-906c-311e01b7887f?utm_source=github&utm_medium=job_list&utm_campaign=gh-ai-ml-jobs&utm_content=json"
     }
   ]
 }
