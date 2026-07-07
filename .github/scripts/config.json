@@ -1,47 +1,48 @@
 {
   "repo": "AI-ML-Jobs",
   "owner": "ponder-surveys",
-  "title": "AI & Machine Learning Jobs — updated daily",
-  "emoji": "🤖",
-  "tagline": "AI-first and AI-focused roles — ML engineers, applied scientists, AI product managers, LLM engineers — classified daily by Dreamwork's AI-role detector across 400,000+ live listings. No keyword-soup false positives.",
-  "description": "🤖 AI & ML jobs updated daily — AI-first and AI-focused roles (ML, LLM, applied science, AI product) classified from 400K+ crawled listings, with salaries.",
+  "title": "AI and Machine Learning Jobs",
+  "tagline": "AI-first and AI-focused roles: ML engineers, applied scientists, LLM engineers, AI product managers. A classifier reads every posting, so roles that merely mention AI stay out.",
+  "description": "AI and ML jobs updated daily. AI-first and AI-focused roles (ML, LLM, applied science, AI product) classified from 400,000+ crawled listings, with salaries.",
   "homepage": "https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-ai-ml-jobs",
   "topics": ["ai-jobs", "machine-learning", "jobs", "job-search", "artificial-intelligence", "ml-engineering", "jobboard", "careers", "llm", "data-science", "deep-learning", "hiring", "ai-careers", "mlops", "genai"],
   "utmCampaign": "gh-ai-ml-jobs",
-  "keywords": "AI-first and AI-focused roles (classified by Dreamwork's AI-role detector, not keyword matching)",
-  "legend": "**AI Focus legend:** 🧠 **AI-first** — building AI products/models is the job · 🤖 **AI-focused** — AI/ML is explicitly central to the role",
+  "keywords": "AI-first and AI-focused roles, labeled by a classifier that reads each posting rather than matching keywords",
+  "legend": "AI focus column: **AI-first** means building AI products or models is the job itself. **AI-focused** means AI/ML is explicitly central to the role.",
   "sources": [
     { "aiRole": "true" }
   ],
   "usOnly": false,
   "aiKinds": ["ai_first", "ai_explicit"],
   "titleExclude": null,
-  "maxRows": 100,
-  "jsonRows": 250,
+  "windowDays": 7,
+  "maxRows": 300,
+  "minWindowRows": 100,
   "minRows": 25,
-  "maxPagesPerSource": 30,
+  "maxPagesPerSource": 40,
+  "groupBy": "functionPrimary",
   "showAiColumn": true,
   "siblings": [
-    { "repo": "ponder-surveys/New-Grad-Software-Engineer-Jobs", "label": "New Grad Software Engineer Jobs — entry-level roles for graduates" },
-    { "repo": "ponder-surveys/Tech-Internships-2026", "label": "Tech Internships 2026 — SWE, data, product & design internships" },
-    { "repo": "ponder-surveys/Remote-Tech-Jobs", "label": "Remote Tech Jobs — work-from-anywhere engineering roles" }
+    { "repo": "ponder-surveys/New-Grad-Software-Engineer-Jobs", "label": "New Grad Software Engineer Jobs: entry-level roles for graduates" },
+    { "repo": "ponder-surveys/Tech-Internships-2026", "label": "Tech Internships 2026: SWE, data, product, and design internships" },
+    { "repo": "ponder-surveys/Remote-Tech-Jobs", "label": "Remote Tech Jobs: fully remote engineering roles" }
   ],
   "faq": [
     {
-      "q": "How is this different from every other \"AI jobs\" list?",
-      "a": "Most lists keyword-match \"AI\" in the title, which floods them with roles that merely mention AI. Dreamwork runs an LLM classifier over every one of its 400,000+ crawled listings and labels each role <strong>AI-first</strong> (building AI is the job), <strong>AI-focused</strong> (AI/ML explicitly central), or merely AI-enabled. This list only includes the first two tiers."
+      "q": "How is this different from other AI job lists?",
+      "a": "Most lists match the word AI in job titles, which pulls in every role that mentions it. Dreamwork runs a classifier over each of its 400,000+ crawled listings and labels roles <strong>AI-first</strong> (building AI is the job), <strong>AI-focused</strong> (AI/ML is explicitly central), or merely AI-enabled. Only the first two appear here."
     },
     {
       "q": "How often is this list updated?",
-      "a": "Every day, by a GitHub Action pulling from Dreamwork's public API. Thousands of new AI roles are classified every week — see the live <a href=\"https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=faq&utm_campaign=gh-ai-ml-jobs\">AI Labor Index</a> for trends."
+      "a": "Once a day, by a GitHub Action pulling from Dreamwork's public API. Thousands of new AI roles are classified every week. The <a href=\"https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=faq&utm_campaign=gh-ai-ml-jobs\">AI Labor Index</a> tracks the trends."
     },
     {
       "q": "What kinds of roles show up here?",
-      "a": "ML engineers, LLM/GenAI engineers, applied and research scientists, AI product managers, AI infrastructure/platform engineers, and AI-native GTM roles — across startups and the Fortune 500. Use <kbd>Ctrl</kbd>+<kbd>F</kbd> to filter."
+      "a": "ML engineers, LLM and GenAI engineers, applied and research scientists, AI product managers, AI infrastructure engineers, and AI-native go-to-market roles, at startups and large companies. Use <kbd>Ctrl</kbd>+<kbd>F</kbd> to filter."
     },
     {
-      "q": "Can a tool just apply to these for me?",
-      "a": "That's what <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-ai-ml-jobs\">Dreamwork</a> does — it matches your résumé against every AI listing here, tailors your application, and can apply autonomously. The free tier shows all your matches."
+      "q": "Can a tool apply to these for me?",
+      "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-ai-ml-jobs\">Dreamwork</a> matches your resume against every AI listing here, tailors each application, and can submit them for you. Seeing your matches is free."
     }
   ]
 }
