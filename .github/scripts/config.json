@@ -5,27 +5,55 @@
   "tagline": "AI-first and AI-focused roles: ML engineers, applied scientists, LLM engineers, AI product managers. A classifier reads every posting, so roles that merely mention AI stay out.",
   "description": "AI and ML jobs updated daily. AI-first and AI-focused roles (ML, LLM, applied science, AI product) classified from 400,000+ crawled listings, with salaries.",
   "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-ai-ml-jobs",
-  "topics": ["ai-jobs", "machine-learning", "jobs", "job-search", "artificial-intelligence", "ml-engineering", "jobboard", "careers", "llm", "data-science", "deep-learning", "hiring", "ai-careers", "mlops", "genai"],
+  "topics": [
+    "ai-jobs",
+    "machine-learning",
+    "jobs",
+    "job-search",
+    "artificial-intelligence",
+    "ml-engineering",
+    "jobboard",
+    "careers",
+    "llm",
+    "data-science",
+    "deep-learning",
+    "hiring",
+    "ai-careers",
+    "mlops",
+    "genai"
+  ],
   "utmCampaign": "gh-ai-ml-jobs",
   "keywords": "AI-first and AI-focused roles, labeled by a classifier that reads each posting rather than matching keywords",
   "legend": "AI focus column: **AI-first** means building AI products or models is the job itself. **AI-focused** means AI/ML is explicitly central to the role.",
   "sources": [
-    { "aiRole": "true" }
+    {
+      "aiRole": "true"
+    }
   ],
   "usOnly": false,
-  "aiKinds": ["ai_first", "ai_explicit"],
+  "aiKinds": [
+    "ai_first",
+    "ai_explicit"
+  ],
   "titleExclude": null,
-  "windowDays": 7,
-  "maxRows": 300,
-  "minWindowRows": 100,
+  "maxRows": 600,
   "minRows": 25,
-  "maxPagesPerSource": 40,
+  "maxPagesPerSource": 60,
   "groupBy": "functionPrimary",
   "showAiColumn": true,
   "siblings": [
-    { "repo": "dreamworkhq/New-Grad-Software-Engineer-Jobs", "label": "New Grad Software Engineer Jobs: entry-level roles for graduates" },
-    { "repo": "dreamworkhq/Tech-Internships-2026", "label": "Tech Internships 2026: SWE, data, product, and design internships" },
-    { "repo": "dreamworkhq/Remote-Tech-Jobs", "label": "Remote Tech Jobs: fully remote engineering roles" }
+    {
+      "repo": "dreamworkhq/New-Grad-Software-Engineer-Jobs",
+      "label": "New Grad Software Engineer Jobs: entry-level roles for graduates"
+    },
+    {
+      "repo": "dreamworkhq/Tech-Internships-2026",
+      "label": "Tech Internships 2026: SWE, data, product, and design internships"
+    },
+    {
+      "repo": "dreamworkhq/Remote-Tech-Jobs",
+      "label": "Remote Tech Jobs: fully remote engineering roles"
+    }
   ],
   "faq": [
     {
@@ -44,5 +72,6 @@
       "q": "Can a tool apply to these for me?",
       "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-ai-ml-jobs\">Dreamwork</a> matches your resume against every AI listing here, tailors each application, and can submit them for you. Seeing your matches is free."
     }
-  ]
+  ],
+  "mode": "fresh"
 }
