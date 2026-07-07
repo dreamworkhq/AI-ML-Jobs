@@ -25,7 +25,7 @@
 
 Star this repo and new roles land in your GitHub feed every day. Listings come from [Dreamwork](https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-ai-ml-jobs), which crawls 400,000+ jobs directly from company career pages.
 
-Last updated: **2026-07-07**. Showing the **600** most recently indexed roles, curated from **19,325** open listings on Dreamwork. Salary shows when the posting discloses it. Click a role to see details and apply.
+Last updated: **2026-07-07**. Showing the **600** most recently indexed roles, curated from **19,326** open listings on Dreamwork. Salary shows when the posting discloses it. Click a role to see details and apply.
 
 AI focus column: **AI-first** means building AI products or models is the job itself. **AI-focused** means AI/ML is explicitly central to the role.
 
