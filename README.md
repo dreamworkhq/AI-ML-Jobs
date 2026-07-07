@@ -16,9 +16,9 @@
 <p align="center">
   <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=link_row&utm_campaign=gh-ai-ml-jobs">dreamworkhq.com</a>
   ·
-  <a href="https://www.dreamworkhq.com/research?utm_source=github&utm_medium=link_row&utm_campaign=gh-ai-ml-jobs">Hiring research</a>
+  <a href="https://www.dreamworkhq.com/blog?utm_source=github&utm_medium=link_row&utm_campaign=gh-ai-ml-jobs">Blog</a>
   ·
-  <a href="https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=link_row&utm_campaign=gh-ai-ml-jobs">AI Labor Index</a>
+  <a href="https://www.dreamworkhq.com/research?utm_source=github&utm_medium=link_row&utm_campaign=gh-ai-ml-jobs">Hiring research</a>
   ·
   <a href="../../issues">Report a listing</a>
 </p>
@@ -402,7 +402,7 @@ Rather not scan a table? [Dreamwork](https://www.dreamworkhq.com/?utm_source=git
 - [Tech Internships 2026: SWE, data, product, and design internships](https://github.com/dreamworkhq/Tech-Internships-2026)
 - [Remote Tech Jobs: fully remote engineering roles](https://github.com/dreamworkhq/Remote-Tech-Jobs)
 - [Dreamwork Research, live hiring data](https://www.dreamworkhq.com/research?utm_source=github&utm_medium=readme_links&utm_campaign=gh-ai-ml-jobs)
-- [AI Labor Index](https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=readme_links&utm_campaign=gh-ai-ml-jobs)
+- [How to use Dreamwork, guides and tutorials](https://www.dreamworkhq.com/how-to?utm_source=github&utm_medium=readme_links&utm_campaign=gh-ai-ml-jobs)
 
 ## FAQ
 
@@ -416,7 +416,7 @@ Most lists match the word AI in job titles, which pulls in every role that menti
 <details>
 <summary><strong>How often is this list updated?</strong></summary>
 
-Once a day, by a GitHub Action pulling from Dreamwork's public API. Thousands of new AI roles are classified every week. The <a href="https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=faq&utm_campaign=gh-ai-ml-jobs">AI Labor Index</a> tracks the trends.
+Once a day, by a GitHub Action pulling from Dreamwork's public API. Thousands of new AI roles are classified every week; the <a href="https://www.dreamworkhq.com/blog?utm_source=github&utm_medium=faq&utm_campaign=gh-ai-ml-jobs">Dreamwork blog</a> publishes data stories from the same corpus.
 
 </details>
 

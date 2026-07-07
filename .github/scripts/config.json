@@ -4,7 +4,7 @@
   "title": "AI and Machine Learning Jobs",
   "tagline": "AI-first and AI-focused roles: ML engineers, applied scientists, LLM engineers, AI product managers. A classifier reads every posting, so roles that merely mention AI stay out.",
   "description": "AI and ML jobs updated daily. AI-first and AI-focused roles (ML, LLM, applied science, AI product) classified from 400,000+ crawled listings, with salaries.",
-  "homepage": "https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-ai-ml-jobs",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-ai-ml-jobs",
   "topics": ["ai-jobs", "machine-learning", "jobs", "job-search", "artificial-intelligence", "ml-engineering", "jobboard", "careers", "llm", "data-science", "deep-learning", "hiring", "ai-careers", "mlops", "genai"],
   "utmCampaign": "gh-ai-ml-jobs",
   "keywords": "AI-first and AI-focused roles, labeled by a classifier that reads each posting rather than matching keywords",
@@ -34,7 +34,7 @@
     },
     {
       "q": "How often is this list updated?",
-      "a": "Once a day, by a GitHub Action pulling from Dreamwork's public API. Thousands of new AI roles are classified every week. The <a href=\"https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=faq&utm_campaign=gh-ai-ml-jobs\">AI Labor Index</a> tracks the trends."
+      "a": "Once a day, by a GitHub Action pulling from Dreamwork's public API. Thousands of new AI roles are classified every week; the <a href=\"https://www.dreamworkhq.com/blog?utm_source=github&utm_medium=faq&utm_campaign=gh-ai-ml-jobs\">Dreamwork blog</a> publishes data stories from the same corpus."
     },
     {
       "q": "What kinds of roles show up here?",
