@@ -1,5 +1,10 @@
-<a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-ai-ml-jobs"><img src="./static/img/banner-dark.svg#gh-dark-mode-only" alt="Dreamwork turns live job listings into personalized matches" width="100%"></a>
-<a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-ai-ml-jobs"><img src="./static/img/banner-light.svg#gh-light-mode-only" alt="Dreamwork turns live job listings into personalized matches" width="100%"></a>
+<a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-ai-ml-jobs">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./static/img/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./static/img/banner-light.svg">
+    <img src="./static/img/banner-light.svg" alt="Dreamwork turns live job listings into personalized matches" width="100%">
+  </picture>
+</a>
 
 <h1 align="center">AI and Machine Learning Jobs</h1>
 
@@ -11,8 +16,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-ai-ml-jobs"><img src="./static/img/btn-matches-dark.svg#gh-dark-mode-only" width="340" alt="Match my resume to these roles"></a>
-  <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-ai-ml-jobs"><img src="./static/img/btn-matches-light.svg#gh-light-mode-only" width="340" alt="Match my resume to these roles"></a>
+  <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=readme_cta&utm_campaign=gh-ai-ml-jobs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./static/img/btn-matches-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./static/img/btn-matches-light.svg">
+      <img src="./static/img/btn-matches-light.svg" width="340" alt="Match my resume to these roles">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
