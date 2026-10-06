@@ -3,7 +3,7 @@
   "owner": "dreamworkhq",
   "title": "AI and Machine Learning Jobs",
   "tagline": "AI-first and AI-focused roles: ML engineers, applied scientists, LLM engineers, AI product managers. A classifier reads every posting, so roles that merely mention AI stay out.",
-  "description": "AI and ML jobs updated daily. AI-first and AI-focused roles (ML, LLM, applied science, AI product) classified from 400,000+ crawled listings, with salaries.",
+  "description": "AI and ML jobs updated daily. AI-first and AI-focused roles (ML, LLM, applied science, AI product) classified from every crawled listing, with salaries.",
   "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-ai-ml-jobs",
   "topics": [
     "ai-jobs",
@@ -58,7 +58,7 @@
   "faq": [
     {
       "q": "How is this different from other AI job lists?",
-      "a": "Most lists match the word AI in job titles, which pulls in every role that mentions it. Dreamwork runs a classifier over each of its 400,000+ crawled listings and labels roles <strong>AI-first</strong> (building AI is the job), <strong>AI-focused</strong> (AI/ML is explicitly central), or merely AI-enabled. Only the first two appear here."
+      "a": "Most lists match the word AI in job titles, which pulls in every role that mentions it. Dreamwork runs a classifier over each crawled listing and labels roles <strong>AI-first</strong> (building AI is the job), <strong>AI-focused</strong> (AI/ML is explicitly central), or merely AI-enabled. Only the first two appear here."
     },
     {
       "q": "How often is this list updated?",
