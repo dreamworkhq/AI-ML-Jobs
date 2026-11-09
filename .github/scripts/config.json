@@ -35,6 +35,7 @@
     "ai_first",
     "ai_explicit"
   ],
+  "companyExclude": "^ITOL Recruit$",
   "titleExclude": null,
   "maxRows": 600,
   "minRows": 25,
